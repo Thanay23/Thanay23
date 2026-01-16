@@ -1,5 +1,10 @@
-# 💫 About Me:
-🤝 Looking to Collaborate On<br>ML & AI Projects<br>Web Development & ML Integration<br><br>📚 Currently Learning<br>Machine Learning & Deep Learning<br>Competitive Programming<br>
+👋 Hi, I’m an Engineering student passionate about software development and real-world problem solving.
+
+💻 I have hands-on experience in web development, including an internship at Reddy Crops & Science (Riventa Seeds), where I worked on live projects using Wix Studio.
+
+🚀 I’m focused on strengthening my core software engineering skills through continuous learning and project-based practice.
+
+🤝 Open to collaboration, internships, and discussions around web technologies and software development.
 
 
 # 💻 Tech Stack:
